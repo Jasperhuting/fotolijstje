@@ -2,7 +2,7 @@ $(document).ready(function () {
   $(".your-class").slick({
     slidesToShow: 1,
     slidesToScroll: 1,
-    autoplay: false,
+    autoplay: true,
     autoplaySpeed: 2000,
     navigation: false,
     fade: true,
