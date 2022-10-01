@@ -1,5 +1,5 @@
 $(document).ready(function () {
-  var folder = "images/";
+  var folder = "https://jasperhuting.github.io/fotolijstje/images/";
 
   $.ajax({
     url: folder,
