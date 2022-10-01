@@ -11,5 +11,7 @@ $(document).ready(function () {
     centerMode: true,
     infinite: true,
     adaptive: true,
+    pauseOnFocus: false,
+    pauseOnHover: false,
   });
 });
